@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "skyDiving"
+  site-url: "https://ofgarzon2662.github.io/skyDiving"
+  description: "MNIST Autoencoder exercise - reconstruction of noisy digits"
+  repo-branch: master
+  repo-url: "https://github.com/ofgarzon2662/skyDiving"

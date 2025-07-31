@@ -19,3 +19,7 @@
 
 # MacOS specific 
 .DS_Store
+# Add .venv to ignore
+SkydivingAirResistance/.venv/
+
+SkydivingAirResistance/.ipynb_checkpoints/
